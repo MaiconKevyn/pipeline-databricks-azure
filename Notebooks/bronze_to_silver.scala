@@ -1,7 +1,7 @@
 // Databricks notebook source
 // MAGIC %python
 // MAGIC
-// MAGIC dbutils.fs.ls("mnt/dadis/bronze")
+// MAGIC dbutils.fs.ls("mnt/dados/bronze")
 
 // COMMAND ----------
 
